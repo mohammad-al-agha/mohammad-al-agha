@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al Agha</h1>
 <h3 align="center">Working my way up to be a Full Stack Developer</h3>
 
-<img src="![Group 3](https://github.com/mohammad-al-agha/mohammad-al-agha/assets/119868099/5dce3f17-db91-4168-bc0e-74fbce787f6b)
+<img src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif
     " alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-al-agha&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadalagha" /> </p>
