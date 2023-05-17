@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al Agha</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif">
 
