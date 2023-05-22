@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif">
 
-- 🌱 I’m currently learning **Flutter,Node.JS**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **mohalagha11@gmail.com**
 
